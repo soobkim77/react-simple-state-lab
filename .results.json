@@ -5,15 +5,15 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2021-03-16T17:49:27.648Z",
-    "end": "2021-03-16T17:49:27.670Z",
+    "start": "2021-03-16T18:49:54.218Z",
+    "end": "2021-03-16T18:49:54.240Z",
     "duration": 22
   },
   "tests": [
     {
       "title": "uses a default 'values' prop of an array with 10 items",
       "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,7 +34,7 @@
     {
       "title": "is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
       "fullTitle": "<Cell /> is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "uses a default 'values' prop of an array with 10 items",
       "fullTitle": "<Matrix /> uses a default 'values' prop of an array with 10 items",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
       "fullTitle": "<Cell /> is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
